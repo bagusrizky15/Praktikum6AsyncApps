@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Praktikum6AsyncApps</string>
+    <string name="button_go">GO</string>
+    <string name="teks_info">Halo</string>
+
+    <string name="text_starting">Starting</string>
+    <string name="text_running">Running</string>
+    <string name="text_finish">Completed</string>
+
+
 </resources>
