@@ -34,4 +34,13 @@
         tools:layout_editor_absoluteX="161dp"
         tools:layout_editor_absoluteY="166dp" />
 
+    <Button
+        android:id="@+id/button_getData"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="59dp"
+        android:text="@string/button_getData"
+        app:layout_constraintTop_toTopOf="@+id/textView"
+        tools:layout_editor_absoluteX="145dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

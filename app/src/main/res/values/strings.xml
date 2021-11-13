@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Praktikum6AsyncApps</string>
     <string name="button_go">GO</string>
+    <string name="button_getData">Get Data</string>
     <string name="teks_info">Halo</string>
 
     <string name="text_starting">Starting</string>
